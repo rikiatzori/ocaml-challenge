@@ -1,6 +1,6 @@
 # 7, 11 and doubles
 
-Write a function with type:
+aaaWrite a function with type:
 ```ocaml
 seven_eleven_doubles : unit -> bool * int * int
 ```
